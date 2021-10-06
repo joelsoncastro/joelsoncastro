@@ -2,7 +2,7 @@
 - 👀 I’m interested in building unique web products.
 - 🌱 I’m currently learning the MERN Stack.
 - 💞️ I’m looking to collaborate.
-- 📫 How to reach me: castro.joelson@gmail.com.
+- 📫 How to reach me: joelson_castro@hotmail.com.
 
 <!---
 joelsoncastro/joelsoncastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
