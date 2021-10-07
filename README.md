@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joelsoncastro
 - 👀 I’m interested in building unique web products.
-- 🌱 I’m currently learning the MERN Stack.
+- 🌱 I’m currently fimiliarizing with the MERN Stack.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me: joelson_castro@hotmail.com.
 
