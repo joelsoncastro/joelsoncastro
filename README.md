@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @joelson_castro
 - 👀 I’m interested in building unique web products.
-- 🌱 I’m currently fimiliarizing with the MERN Stack.
+- 🌱 I’m currently fimiliarizing with the MERN Stac. Falling in ❤️ with MongoDB.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me: joelson_castro@hotmail.com.
 
