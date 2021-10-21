@@ -12,7 +12,7 @@ joelsoncastro/joelsoncastro is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 [![trophy](https://github-profile-trophy.vercel.app/?username=joelsoncastro)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joelsoncastro&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joelsoncastro&theme=github_dark)
 <!---![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joelsoncastro)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joelsoncastro)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joelsoncastro)
