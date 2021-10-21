@@ -1,5 +1,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=joelsoncastro)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![HitCount](http://hits.dwyl.com/{username}/{joelsoncastro}.svg)](http://hits.dwyl.com/{joelsoncastro}/{joelsoncastro})
 
 - 👋 Hi, I’m @joelson_castro
 - 👀 I’m interested in building unique web products.
@@ -11,6 +11,7 @@
 joelsoncastro/joelsoncastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 
 
 
