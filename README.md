@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joelsoncastro=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joelsoncastro)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joelsoncastro)
 
