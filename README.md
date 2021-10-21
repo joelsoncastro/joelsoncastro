@@ -19,4 +19,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joelsoncastro)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joelsoncastro)
 --->
-![](https://raw.githubusercontent.com/joelsoncastro/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joelsoncastro&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joelsoncastro&theme=github_dark)
