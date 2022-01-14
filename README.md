@@ -5,7 +5,7 @@
 - 👀 I’m interested in building unique web products.
 - 🌱 I’m currently fimiliarizing with the MERN Stack. Falling in ❤️  for MongoDB Design Patterns.
 - 💞️ I’m looking to collaborate.
-- 📫 How to reach me: joelson_castro@hotmail.com. </br></br></br>
+- 📫 How to reach me: castro.joelson@gmail.com. </br></br></br>
 
 <!---
 joelsoncastro/joelsoncastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
